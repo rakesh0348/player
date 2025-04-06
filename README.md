@@ -1,2 +1,2 @@
-# Property Wrapper
-I made demo on property wrapper
+# Demo Project
+I made demo for practise
